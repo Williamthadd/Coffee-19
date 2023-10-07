@@ -1,0 +1,367 @@
+body{
+    background-image: url("Asset/aboutbackground.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #170b04;
+}
+
+.head{
+    width:auto;
+    height: 120px;
+    padding: 10PX;
+    background-color:#86624E;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    position: absolute;
+    border-radius: 15px;
+}
+
+.head2{
+    width:auto;
+    height: 80px;
+    padding: 10PX;
+    background-color:#86624E;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    position: absolute;
+}
+
+.logo{
+    width: 144px;
+    color: white;
+    margin-top: -10px;
+}
+.profile{
+    width: 77px;
+    float: right;
+    margin-top: -65px;
+}
+
+.navbar{
+    text-align: center;
+    font-size: 30px;
+    margin-top: -80px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a:visited{
+    color: #E7D7CE;
+}
+
+a.one:link{
+    color: #E7D7CE;
+    text-decoration:none;
+}
+
+a.one:hover{
+    text-decoration:underline;
+    font-weight: bold;
+}
+
+a.two:link{
+    color: #E7D7CE;
+    text-decoration:none;
+    margin-left: 100px;
+}
+
+a.two:hover{
+    text-decoration:underline;
+    font-weight: bold;
+}
+
+a.three:link{
+    color: #E7D7CE;
+    text-decoration:none;
+    margin-left: 100px;
+}
+
+a.three:hover{
+    text-decoration:underline;
+    font-weight: bold;
+}
+
+a.four:link{
+    color: #E7D7CE;
+    text-decoration:none;
+    margin-left: 100px;
+}
+
+a.four:hover{
+    font-weight: bold;
+    text-decoration:underline;
+}
+
+.foot{
+    width:auto;
+    height: 192px;
+    padding: 10PX;
+    background-color:#86624E;
+    margin-bottom: 0px;
+    left: 0px;
+    right: 0px;
+    position: absolute;
+    border-radius: 15px;
+}
+
+.foot2{
+    width:auto;
+    height: 80px;
+    padding: 10PX;
+    background-color:#86624E;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    position: absolute;
+}
+
+.logo2{
+    float: right;
+    width: 144px;
+    margin-top: -170px;
+}
+
+.footertext1{
+    font-size: 16px;
+    margin-top: -90px;
+}
+
+a.bottomlink:link{
+    color: #FCEAD8;
+    text-decoration:none;
+}
+
+a.bottomlink:hover{
+    font-weight: bold;
+}
+
+.footertext{
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.copyright{
+    color: #FCEAD8;
+    font-size: 15px;
+}
+
+.title{
+    color:#EBDAC5;
+    font-size: 64px;
+    text-align: center;
+    margin-top: 200px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.text{
+    color:#EBDAC5;
+    font-size: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.title2{
+    color:#EBDAC5;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 180px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.liberica{
+    width: 350px;
+    border-radius: 30px;
+    margin-top: 100px;
+    margin-left: 0px;
+}
+
+.robusta{
+    width: 350px;
+    border-radius: 30px;
+    margin-left: 50px;
+}
+
+.arabica{
+    width: 350px;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+.excelsa{
+    width: 350px;
+    border-radius: 30px;
+    margin-left: 50px;
+}
+
+.positioning{
+    margin-left: -50px;
+}
+
+.founderbox{
+    background-color: #86624E;
+    width: 430px;
+    height: 430px;
+    border-radius: 30px;
+    margin-top: 100px;
+    margin-right: 500px;
+}
+
+.cofounderbox{
+    background-color: #86624E;
+    width: 430px;
+    height: 430px;
+    border-radius: 30px;
+    margin-left: 500px;
+    margin-top: -430px;
+}
+
+.cofounderbox1{
+    background-color: #86624E;
+    border-radius: 30px;
+    height: 430px;
+    width: 430px;
+    margin-top: 50px;
+}
+
+.photo{
+    border-radius: 500px;
+    width: 290px;
+    height: 305px;
+    margin-top: 5px;
+    filter: grayscale(100%);
+}
+
+.name{
+    color: #FCEAD8;
+    font-size: 28px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 10px;
+}
+
+.role{
+    color: #FCEAD8;
+    font-size: 20px;
+    
+}
+
+.distance{
+    height: 300px;
+}
+
+img.liberica:hover{
+    filter: drop-shadow(10px 10px 4px #4a4235);
+}
+
+img.arabica:hover{
+    filter: drop-shadow(10px 10px 4px #4a4235);
+}
+
+img.excelsa:hover{
+    filter: drop-shadow(10px 10px 4px #4a4235);
+}
+
+img.robusta:hover{
+    filter: drop-shadow(10px 10px 4px #4a4235);
+}
+
+img.photo:hover{
+    filter: grayscale(80%);
+}
+
+@media screen and (max-width: 1086px){
+    img.welcome{
+        margin-top: 350px;
+    }
+    div.navbar{
+        margin-top: 10px;
+        margin-left: -80px;
+        margin-right: 100%;
+        float: left;
+        text-align: left;
+    }
+    a.one{
+        margin-left: 100px;
+    }
+    img.profile{
+        margin-top: -255px;
+    }
+    header.head{
+        height: 300px;
+    }
+
+    p.title{
+        margin-top: 400px;
+    }
+}
+
+@media screen and (max-width: 787px){
+    img.liberica{
+        margin-left: 0px;
+    }
+    img.robusta{
+        margin-top: 100px;
+        margin-left: -10px;
+    }
+    img.excelsa{
+        margin-top: 100px;
+        margin-left: 50px;
+    }
+    img.arabica{
+        margin-left: 50px;
+    }
+}
+
+
+@media screen and (max-width: 467px){
+    div.founderbox{
+        width: 100%;
+    }
+    div.cofounderbox{
+        width: 100%;
+    }
+    div.cofounderbox1{
+        width: 100%;
+    }
+    footer.foot{
+        top: 5200px;
+    }
+}
+
+@media screen and (max-width: 414px){
+    img.liberica{
+        width: 90%;
+        
+    }
+    img.robusta{
+        width: 90%;
+        
+    }
+    img.excelsa{
+        width: 80%;
+    }
+    img.arabica{
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 960px){
+    div.founderbox{
+        align-items: center;
+        margin-right: 0%;
+    }
+    div.cofounderbox{
+        align-items: center;
+        margin-left: 0%;
+        margin-top: 50px;
+    }
+}
+
+@media screen and (max-width: 700px){
+    p.text{
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+}
